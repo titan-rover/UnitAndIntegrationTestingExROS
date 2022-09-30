@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="add_pkg" type="start_add_node.py" name="add_node" />
+</launch>

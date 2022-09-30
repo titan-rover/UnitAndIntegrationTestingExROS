@@ -1,0 +1,4 @@
+<launch>
+	<node name="add_node" pkg="add_pkg" type="start_add_node.py" />
+	<test test-name="add_test" pkg="add_pkg" type="add_test.py" />
+</launch>
